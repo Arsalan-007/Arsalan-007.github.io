@@ -1,0 +1,4 @@
+# The built site lives at the repo root (GitHub Pages serves it from there).
+# portfolio-src/ is the Vite source that produces it.
+portfolio-src/node_modules/
+portfolio-src/dist/
